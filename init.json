@@ -1,0 +1,9 @@
+{
+    "theme": "dark",
+    "ifTimeStamp": true,
+    "ifCollapsed": false,
+    "VaultDir": "D:/02_Study/03_Notes/Alpraline/-1_Periodic",
+    "DailyFormat": "{YYYY}/Daily/{MM}/{YYYY}-{MM}-{DD}",
+    "BlockName": "## Daily Record",
+    "QuickAddText": "test"
+}
